@@ -1,0 +1,1 @@
+- bootstrap.ps1 requires two extra lines to create the application and service principal in entra. couldn't be bothered to do it now. will add it later; for now the script will look for the service principal ID by name
